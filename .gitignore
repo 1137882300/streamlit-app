@@ -43,3 +43,4 @@ log/*
 /langchain/vectors/chroma/.chroma-data
 /data/chroma_vector_db
 .streamlit
+.vercel
