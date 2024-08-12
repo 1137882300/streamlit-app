@@ -4,7 +4,8 @@
       "src": "app.py",
       "use": "@vercel/python",
       "config": {
-        "buildCommand": "streamlit run app.py"
+        "buildCommand": "streamlit run app.py",
+        "pythonVersion": "3.10"
       }
     }
   ],
